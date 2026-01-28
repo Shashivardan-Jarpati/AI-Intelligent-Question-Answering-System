@@ -1,0 +1,4 @@
+Artificial Intelligence is the ability of machines to perform tasks that require human intelligence.
+Machine Learning is a subset of AI that enables systems to learn from data.
+Natural Language Processing allows machines to understand human language.
+Prompt Engineering is the technique of designing prompts to get better AI responses.
