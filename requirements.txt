@@ -1,2 +1,3 @@
-nltk
-scikit-learn
+Requirements :-
+pip install nltk
+pip install scikit-learn
